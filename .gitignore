@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+storage-state.json
+debug-screenshots/
+*.log
+.DS_Store
+_*.mjs
+_*.png
+scratch-*.mjs
